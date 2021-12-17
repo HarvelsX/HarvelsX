@@ -1,2 +1,1 @@
-👀
 ![BreadCat](breadcat.png "Me")
